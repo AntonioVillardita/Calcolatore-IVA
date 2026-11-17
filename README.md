@@ -5,7 +5,7 @@
 
 ## Descrizione
 
-Un semplice calcolatore d'IVA che permette di calcolare, partendo da un valore in € senza IVA, il prezzo con IVA inclusa e anche solo l'IVA, in tempo reale, senza dover premere un tasto "Calcola".  
+Un semplice calcolatore d'IVA che permette di calcolare, partendo da un valore in € senza IVA, il prezzo con IVA inclusa e anche soltanto l'IVA "isolata", in tempo reale, senza dover premere un tasto "Calcola".  
 
 Il tutto calcolato in base all'IVA scelta dall'apposito menù a tendina.  
 Non è modificabile perchè ho già inserito le principali aliquote:
